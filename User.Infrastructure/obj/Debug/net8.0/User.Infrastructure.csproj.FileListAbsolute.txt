@@ -1,10 +1,15 @@
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\bin\Debug\net8.0\User.Infrastructure.deps.json
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\bin\Debug\net8.0\User.Infrastructure.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\bin\Debug\net8.0\User.Infrastructure.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\bin\Debug\net8.0\User.Domain.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\bin\Debug\net8.0\User.Domain.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.csproj.AssemblyReference.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.AssemblyInfoInputs.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.AssemblyInfo.cs
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.sourcelink.json
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Inf.02930D50.Up2Date
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\refint\User.Infrastructure.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Infrastructure\obj\Debug\net8.0\User.Infrastructure.pdb

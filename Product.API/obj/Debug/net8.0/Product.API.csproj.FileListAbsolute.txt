@@ -1,9 +1,3 @@
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.csproj.AssemblyReference.cache
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfoInputs.cache
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfo.cs
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.csproj.CoreCompileInputs.cache
-D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\appsettings.Development.json
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\appsettings.json
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\Product.API.exe
@@ -138,7 +132,14 @@ D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\Produc
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\Product.Application.pdb
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\Product.Domain.pdb
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\Product.Infrastrcture.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.csproj.AssemblyReference.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfoInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.csproj.CoreCompileInputs.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.sourcelink.json
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\staticwebassets\msbuild.Product.API.Microsoft.AspNetCore.StaticWebAssets.props

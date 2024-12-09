@@ -1,11 +1,15 @@
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\bin\Debug\net8.0\User.Domain.deps.json
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\bin\Debug\net8.0\User.Domain.runtimeconfig.json
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\bin\Debug\net8.0\User.Domain.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\bin\Debug\net8.0\User.Domain.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.csproj.AssemblyReference.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.AssemblyInfoInputs.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.AssemblyInfo.cs
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.csproj.CoreCompileInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.sourcelink.json
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\refint\User.Domain.dll
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\User.Domain.genruntimeconfig.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\User.Domain\obj\Debug\net8.0\ref\User.Domain.dll

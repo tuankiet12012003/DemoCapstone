@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+H8KwV/WmzmUp5oJMl72U7FyELFGzgsKc+1zArcIHiDdoRQ8iCZ6vl3413NIwb2EIxc9rOHiKmgYpRUdHE1lw==",
+  "success": true,
+  "projectFilePath": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\YarpApiGateway\\YarpApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhphu\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\dhphu\\.nuget\\packages\\yarp.reverseproxy\\2.2.0\\yarp.reverseproxy.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
