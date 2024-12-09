@@ -1,0 +1,17 @@
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Application.deps.json
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Application.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.AssemblyInfoInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.AssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.csproj.CoreCompileInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\refint\Product.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\ref\Product.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Domain.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Infrastructure.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Domain.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\bin\Debug\net8.0\Product.Infrastructure.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product.Application.csproj.AssemblyReference.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\Application\obj\Debug\net8.0\Product..7E280BC3.Up2Date

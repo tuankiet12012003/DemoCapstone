@@ -1,0 +1,11 @@
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\bin\Debug\net8.0\User.Application.deps.json
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\bin\Debug\net8.0\User.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\bin\Debug\net8.0\User.Application.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.AssemblyInfoInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.AssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.csproj.CoreCompileInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\refint\User.Application.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\User.Application.pdb
+D:\Spring2025\MicroServiceLearningHelloWorld\User.Application\obj\Debug\net8.0\ref\User.Application.dll

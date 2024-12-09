@@ -1,0 +1,7 @@
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.csproj.AssemblyReference.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cs
+D:\Spring2025\MicroServiceLearningHelloWorld\ProductService\obj\Debug\net8.0\ProductService.MvcApplicationPartsAssemblyInfo.cache
