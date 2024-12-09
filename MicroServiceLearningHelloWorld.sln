@@ -5,10 +5,6 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{695721CD-6DB0-411F-9148-6D1A0F01152F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.API", "UserService\User.API.csproj", "{7D64274A-7772-4A1F-9C61-61E6E987F90D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "User", "User", "{8DFBC5B3-5033-463C-B3C7-5044E4247257}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductService", "ProductService", "{05ECF0EF-7A5D-4455-AD74-9674302C89DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Communication", "Communication", "{81146AFB-A03A-4650-85A3-9E98421A40A4}"
@@ -47,13 +43,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - UnitTest", "5 - UnitTest", "{081A03F8-E778-4830-8C64-D3B5B43E5D57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.API", "Product.API\Product.API.csproj", "{97928B80-CB41-4DEC-96F2-BC7D672E7C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.API", "Product.API\Product.API.csproj", "{97928B80-CB41-4DEC-96F2-BC7D672E7C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Application", "Product.Application\Product.Application.csproj", "{D318C16E-9699-4BDB-95A3-F9499A744E3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Application", "Product.Application\Product.Application.csproj", "{D318C16E-9699-4BDB-95A3-F9499A744E3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Domain", "Product.Domain\Product.Domain.csproj", "{AAE2BB20-877A-4525-8C89-FA2469330582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Domain", "Product.Domain\Product.Domain.csproj", "{AAE2BB20-877A-4525-8C89-FA2469330582}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Infrastrcture", "Product.Infrastrcture\Product.Infrastrcture.csproj", "{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.Infrastrcture", "Product.Infrastrcture\Product.Infrastrcture.csproj", "{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,10 +57,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D64274A-7772-4A1F-9C61-61E6E987F90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D64274A-7772-4A1F-9C61-61E6E987F90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D64274A-7772-4A1F-9C61-61E6E987F90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D64274A-7772-4A1F-9C61-61E6E987F90D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{54B4A9E1-A727-4511-8C31-4C27CBE30503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54B4A9E1-A727-4511-8C31-4C27CBE30503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54B4A9E1-A727-4511-8C31-4C27CBE30503}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -102,8 +94,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{7D64274A-7772-4A1F-9C61-61E6E987F90D} = {8DFBC5B3-5033-463C-B3C7-5044E4247257}
-		{8DFBC5B3-5033-463C-B3C7-5044E4247257} = {695721CD-6DB0-411F-9148-6D1A0F01152F}
 		{05ECF0EF-7A5D-4455-AD74-9674302C89DC} = {695721CD-6DB0-411F-9148-6D1A0F01152F}
 		{C3E52850-E320-4EBE-B5B1-D2C1362E8467} = {695721CD-6DB0-411F-9148-6D1A0F01152F}
 		{54B4A9E1-A727-4511-8C31-4C27CBE30503} = {74758FD0-807E-48E3-A33E-0B8122784377}

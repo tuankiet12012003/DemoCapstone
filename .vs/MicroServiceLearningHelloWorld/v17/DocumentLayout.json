@@ -1,44 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{97928B80-CB41-4DEC-96F2-BC7D672E7C87}|Product.API\\Product.API.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97928B80-CB41-4DEC-96F2-BC7D672E7C87}|Product.API\\Product.API.csproj|solutionrelative:product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.application\\getall\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\getall\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97928B80-CB41-4DEC-96F2-BC7D672E7C87}|Product.API\\Product.API.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97928B80-CB41-4DEC-96F2-BC7D672E7C87}|Product.API\\Product.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.application\\getall\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\getall\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.application\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D318C16E-9699-4BDB-95A3-F9499A744E3B}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}|Product.Infrastrcture\\Product.Infrastrcture.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.infrastrcture\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}|Product.Infrastrcture\\Product.Infrastrcture.csproj|solutionrelative:product.infrastrcture\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}|Product.Infrastrcture\\Product.Infrastrcture.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.infrastrcture\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4AEFA4-D2FC-42AE-A76F-47B02B76CB37}|Product.Infrastrcture\\Product.Infrastrcture.csproj|solutionrelative:product.infrastrcture\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE2BB20-877A-4525-8C89-FA2469330582}|Product.Domain\\Product.Domain.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE2BB20-877A-4525-8C89-FA2469330582}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAE2BB20-877A-4525-8C89-FA2469330582}|Product.Domain\\Product.Domain.csproj|d:\\spring2025\\microservicelearninghelloworld\\product.domain\\entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE2BB20-877A-4525-8C89-FA2469330582}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -46,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,123 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.API\\Program.cs",
-              "RelativeDocumentMoniker": "Product.API\\Program.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.API\\Program.cs*",
-              "RelativeToolTip": "Product.API\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:59.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Product.Application\\ProductDTO.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\ProductDTO.cs",
-              "RelativeToolTip": "Product.Application\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:42.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAllQueryHandler.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\GetAll\\GetAllQueryHandler.cs",
-              "RelativeDocumentMoniker": "Product.Application\\GetAll\\GetAllQueryHandler.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\GetAll\\GetAllQueryHandler.cs",
-              "RelativeToolTip": "Product.Application\\GetAll\\GetAllQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:38.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAllQuery.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\GetAll\\GetAllQuery.cs",
-              "RelativeDocumentMoniker": "Product.Application\\GetAll\\GetAllQuery.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\GetAll\\GetAllQuery.cs",
-              "RelativeToolTip": "Product.Application\\GetAll\\GetAllQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:37.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Infrastrcture\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Product.Infrastrcture\\ProductRepository.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Infrastrcture\\ProductRepository.cs",
-              "RelativeToolTip": "Product.Infrastrcture\\ProductRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:16.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Infrastrcture\\Persistence\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Product.Infrastrcture\\Persistence\\ProductDbContext.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Infrastrcture\\Persistence\\ProductDbContext.cs",
-              "RelativeToolTip": "Product.Infrastrcture\\Persistence\\ProductDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:40:10.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:39:02.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Domain\\Interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Product.Domain\\Interface\\IProductRepository.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Domain\\Interface\\IProductRepository.cs",
-              "RelativeToolTip": "Product.Domain\\Interface\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:39:59.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductEntity.cs",
-              "DocumentMoniker": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Domain\\Entity\\ProductEntity.cs",
-              "RelativeDocumentMoniker": "Product.Domain\\Entity\\ProductEntity.cs",
-              "ToolTip": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Domain\\Entity\\ProductEntity.cs",
-              "RelativeToolTip": "Product.Domain\\Entity\\ProductEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:39:36.011Z",
-              "EditorCaption": ""
             }
           ]
         }
