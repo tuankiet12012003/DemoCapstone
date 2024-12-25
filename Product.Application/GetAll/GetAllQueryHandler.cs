@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using AutoMapper;
+using MediatR;
 using Product.Domain.Interface;
 using System;
 using System.Collections.Generic;
@@ -11,9 +12,12 @@ namespace Product.Application.GetAll
     public class GetAllQueryHandler : IRequestHandler<GetAllQuery, List<ProductDTO>>
     {
         private readonly IProductRepository _repository;
-        public GetAllQueryHandler(IProductRepository repository)
+        private readonly IMapper _mapper;
+
+        public GetAllQueryHandler(IProductRepository repository, IMapper mapper)
         {
             _repository = repository;
+            _mapper = mapper;
         }
 
         public async Task<List<ProductDTO>> Handle(GetAllQuery request, CancellationToken cancellationToken)
@@ -21,12 +25,7 @@ namespace Product.Application.GetAll
             var product = await this._repository.GetProductsAsync(cancellationToken);
             if (product == null) throw new InvalidOperationException("Không tìm thấy bất kỳ Product nào.");
 
-            var productDto = product.Select(product => new ProductDTO
-            {
-                Id = product.Id,
-                Name = product.Name,
-                Price = product.Price
-            }).ToList();
+            var productDto = _mapper.Map<List<ProductDTO>>(product);
 
             return productDto;
 

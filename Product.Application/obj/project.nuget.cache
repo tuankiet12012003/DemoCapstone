@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gzObjbTU1eWJXmVDOQjecX5+GeNSvaWPFvxh96lbpNRa/x4caLVQ/seZgO4MInCyngZwfqA3OVHqX+xWqWCtqA==",
+  "dgSpecHash": "y2slWZCL/Lj89R+wGt8UuNZa3kj72lCwspCNStH2bml8ASzBRO0Xeycqt2fC0rEfdqTLudrvCUXrQAOI0O04XA==",
   "success": true,
   "projectFilePath": "D:\\Spring2025\\MicroServiceLearningHelloWorld\\Product.Application\\Product.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dhphu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\dhphu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dhphu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\dhphu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -154,3 +154,4 @@ D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\refint
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.pdb
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\Product.API.genruntimeconfig.cache
 D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\obj\Debug\net8.0\ref\Product.API.dll
+D:\Spring2025\MicroServiceLearningHelloWorld\Product.API\bin\Debug\net8.0\AutoMapper.dll
